@@ -2,5 +2,5 @@
 2	dog	3
 3	hockey	1
 4	rrrrr	1
-5        boooo 1
-6        hhhhh 1
+5       boooo 1
+6       hhhhh 1
