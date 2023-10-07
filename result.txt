@@ -1,4 +1,5 @@
-1	123	1
-2	bro	2
-3	hello	1
-4	ivan	1
+1	cat	3
+2	dog	3
+3	hockey	1
+4	rrrrr	1
+5 boooo 1
